@@ -1,0 +1,7 @@
+TACO dataset
+YOLO AI foundational model for computer vision (or alternative)
+Amazon sagemaker for fine tuning YOLO with the TACO dataset
+
+GitHub - pedropro/TACO: 🌮 Trash Annotations in Context Dataset Toolkit · GitHub https://share.google/iQWKGAT79b6KJPqJ7
+
+
