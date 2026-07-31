@@ -1,0 +1,20 @@
+Might be worth considering that you are basically creating two things:
+
+1. A rover
+2. An inventory robot
+
+You could look into digital twinning the rover component so you can get the mechanics figured out. Here is a pretty cool resource that will send someone down more than a few cool rabbit holes:
+
+https://fictionlab.pl/blog/what-is-a-robot-digital-twin-and-how-do-you-build-one-with-ros-2-and-gazebo/
+
+Then when you start thinking through the "trash vs not trash" (in my mind anyway) you could pull from some of the processes used in factories to pull parts from a shelf and how they are training those system for object detection and identification:
+
+https://oxmaint.com/industries/facility-management/ros-2-powered-digital-twin-for-facility-robotics
+
+At some point, I'm sure all the engineering nerds are exposed to Ignition. I run a local instance of Ignition in my homelab to play with digital twinning. You could work on the robotics of it there and it's completely free.
+
+https://inductiveautomation.com/resources/webinar/real-tools-for-digital-transformation
+
+Looks like a good tutorial on setting up a robot simulation in Ignition:
+
+https://docs.ros.org/en/foxy/Tutorials/Advanced/Simulators/Ignition/Ignition.html
