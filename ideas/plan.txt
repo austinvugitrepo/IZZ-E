@@ -1,0 +1,20 @@
+Phase 1: Mechanical Fabrication
+Build the 3D-printed body, method of movement, and method of pick up
+
+Phase 2: Power and Actuation
+Wire the batteries, motor drivers, and arm lifting servos.
+
+Phase 3: Compute and Sensors
+Install the onboard computer, camera, and obstacle distance sensors.
+
+Phase 4: Vision Model Training
+Train the AI vision model to spot beach trash.
+
+Phase 5: Autonomous Logic
+Program automatic driving, scooping, and trash dumping routines.
+
+Phase 6: Field Testing
+Test sand driving and tune the sifter shaking motion.
+
+Things to research: SLAM mapping, Amazon sagemaker methods of fine tuning, YOLO, alternatives to YOLO, how computer vision models work and how to integrate it with python and other operations such as the actual cleaning motions
+Btw I added sifter shaking motion because I anticipated we pick up trash using a scoop and sifter opposed to an arm because its a lot easier for coordination and sand But it can change obviously
