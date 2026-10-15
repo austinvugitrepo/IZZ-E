@@ -1,0 +1,4 @@
+# Yolo Training output and model weights
+runs/
+weights/
+*.pt

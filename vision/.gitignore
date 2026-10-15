@@ -1,8 +1,2 @@
 # Datasets
 datasets/
-
-# YOLO training output
-runs/
-
-# Model weights
-*.pt
