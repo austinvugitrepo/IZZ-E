@@ -1,0 +1,7 @@
+# PyTorch built for CUDA 12.6, the last CUDA build that supports GTX 10xx (Pascal) GPUs.
+# 2.14 is the last PyTorch release with cu126 wheels.
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.14.1+cu126
+torchvision==0.29.1+cu126
+
+ultralytics==8.4.177
